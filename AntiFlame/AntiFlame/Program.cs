@@ -9,7 +9,7 @@ namespace AntiFlame
     {
         private static string[] rageText = {
             "wop",
-            "ezenemy",
+            "",
             "ahole",
             "ash0le",
             "ash0les",
